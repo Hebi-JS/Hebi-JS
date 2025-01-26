@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hebi-JS
-- 👀 I’m interested in TypeScript, C++, Rust and cuddles!
+- 👀 I’m interested in Webdev and cuddles!
 - 🌱 I’m currently learning everything about Wev-Development and beyond!
 - 📫 How to reach me:
   Discord: HebiJS
